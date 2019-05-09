@@ -13,6 +13,7 @@
     <sprite>sprites\correct</sprite>
     <sprite>sprites\Nahah</sprite>
     <sprite>sprites\Head</sprite>
+    <sprite>sprites\cara</sprite>
     <sprite>sprites\body</sprite>
     <sprite>sprites\rarm</sprite>
     <sprite>sprites\larm</sprite>
@@ -30,16 +31,20 @@
     <sprite>sprites\sprite20</sprite>
     <sprite>sprites\incorrect</sprite>
     <sprite>sprites\theone</sprite>
-    <sprite>sprites\word1</sprite>
+    <sprite>sprites\spr_correct</sprite>
     <sprite>sprites\hm</sprite>
     <sprite>sprites\saludo</sprite>
     <sprite>sprites\sprite28</sprite>
+    <sprite>sprites\spr_man</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
     <background>background\background1</background>
   </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\font0</font>
+  </fonts>
   <objects name="objects">
     <object>objects\startbutton</object>
     <object>objects\Title</object>
@@ -65,12 +70,13 @@
     <object>objects\b</object>
     <object>objects\o</object>
     <object>objects\l</object>
-    <object>objects\buttonright</object>
     <object>objects\buttonwrong</object>
-    <object>objects\otherwrong</object>
+    <object>objects\buttonright</object>
     <object>objects\Introduccionbutton</object>
     <object>objects\texto_bienvenida</object>
     <object>objects\tryagain</object>
+    <object>objects\obj_cara</object>
+    <object>objects\obj_man</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Menu</room>
